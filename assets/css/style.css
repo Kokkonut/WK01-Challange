@@ -35,11 +35,13 @@ body {
     font-size: 20px;
 }
 
-/* Hero Image style, still have to work out how to scale it properly */
+/*Styles for Hero image*/
 #hero-img {
-    height: 800px;
+    width:100vw;
+    max-height: 800px;
     margin-bottom: 25px;
-    object-fit:cover
+    display: block;
+    object-fit:cover;
 }
 
 /* Stles for main content */
