@@ -28,10 +28,17 @@ THEN I find a concise, descriptive title
 ## Changes made.
 
 Replaced divs in index.html with symantic elements.
-Added alt text to all images.
+
 Refactored HTML to consolidate CSS Classes.
+
 Refactored CSS to remove redundant styles.
 
+
+## Project Links.
+
+[Github Repo](https://github.com/Kokkonut/WK01-Challange)
+
+[Live Site](https://kokkonut.github.io/WK01-Challange/)
 
 ## Mockup of project
 
